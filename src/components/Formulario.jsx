@@ -101,7 +101,7 @@ const Formulario = ({pacientes,setPacientes,paciente,setPaciente}) => {
 
             <div className='mb-5'>
                 <label htmlFor="mascota" className='block text-gray-700 uppercase font-bold'>
-                    Nombre Mascota 
+                    Nombre BESTIA
                 </label>
                 <input 
                 id='mascota'
